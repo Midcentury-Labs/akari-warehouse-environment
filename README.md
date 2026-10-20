@@ -13,7 +13,8 @@ UE5 warehouse lighting-variant scenes (maps + camera sequences) and rendered dem
 **`media/`** — rendered outputs:
 
 - `Akari-Launch-v1.mp4` — launch film (orbit scenes, night + overcast).
-- `warehouse-1-*` / `warehouse-2-*` — full videos, looped versions, and poster frames from the two warehouse walkcam demos.
+- `warehouse-1-*` / `warehouse-2-*` — full comparison videos, looped versions, and poster frames from the first two warehouse walkcam demos.
+- `warehouse-3-full.mp4` / `warehouse-4-full.mp4` — comparison videos from the remaining two walkcam trajectories.
 - `warehouse-reference.png` / `warehouse-neural.png`, `detail-reference.png` / `detail-neural.png` — side-by-side reference vs. neural-render comparisons.
 
 ## Requirements / how to open the maps
